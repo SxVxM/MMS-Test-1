@@ -1,0 +1,16 @@
+Test 1 Task 3 by Stefan Markovski
+
+3.1
+ ps wc
+ 
+3.2
+ mkdir "MMS C camp"
+ cp ./MMS\ C\ camp/*c /home/stefan/Desktop
+ rm [0-9]*
+ 
+3.3
+ chmod 754 fileName
+ 
+3.4
+ wc -l fileName
+ wc -l fileName > textFile.txt
